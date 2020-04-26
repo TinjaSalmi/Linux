@@ -22,16 +22,9 @@
     background-color: rgb(160, 160, 160);
   }
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+  #container { overflow: hidden; }
+  #floated-imgs { float: right; }
+  #floated-imgs img {display: block; }
  
  .header-img {
     width: 100%;
